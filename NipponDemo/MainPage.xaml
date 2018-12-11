@@ -170,7 +170,7 @@
                     <Label
                         AutomationId="LblContactUs"
                         HorizontalOptions="Center"
-                        Text="Contact us"
+                        Text="Contact Us"
                         TextColor="White"
                         VerticalOptions="End" />
                 </StackLayout>
