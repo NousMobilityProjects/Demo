@@ -19,7 +19,7 @@ namespace NipponDemo
         protected override void OnStart()
         {
             // Handle the Analytics and Crash reports on Microsoft Visual studio app center
-            AppCenter.Start("ios=a72bc0be-2631-45a7-a555-a1151f0e6006;" + "android=c09e0f3d-e40c-4ddc-a5f2-f01eb344b7c4;", typeof(Analytics), typeof(Crashes));
+            AppCenter.Start("ios=3e85f975-3c02-4c84-8258-9197ecad3e7c;" + "android=e85e9955-583d-4f9a-94bb-32a32b266160;", typeof(Analytics), typeof(Crashes));
         }
 
         protected override void OnSleep()
