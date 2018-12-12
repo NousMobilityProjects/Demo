@@ -46,7 +46,7 @@ namespace NipponDemo
         #region Constructor
         public MainPageViewModel()
         {
-            // Initialize
+            // Initialize some params
         }
         #endregion
     }
